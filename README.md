@@ -1,7 +1,8 @@
 # arch-i3-stow
 stowed dotfiles for arch i3 setup
 
-```cd ~
+```
+cd ~
 git clone https://github.com/syphant/arch-i3-stow.git
 cd arch-i3-stow
 stow i3
