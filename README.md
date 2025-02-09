@@ -12,4 +12,4 @@ stow zsh
 stow kitty
 stow polybar
 stow xinit
-stow bash```
+stow bash
