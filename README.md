@@ -14,3 +14,4 @@ stow kitty
 stow polybar
 stow xinit
 stow bash
+```
